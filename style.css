@@ -1,0 +1,151 @@
+
+html, body{
+	width:100%;
+	max-width:100%;
+	padding:0;
+	border:0;
+	margin:0;
+	font-size:1rem;
+	display:flex;
+}
+div{width:100%; max-width:100%;}
+
+section{width:100%}
+
+/*Navbar formatting*/	
+.navbarheader{max-width:100%; text-align:center;}	
+
+.navbar{
+	width:100%; 
+ }
+
+.navbar li {
+  color: #777777;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 200;
+  margin: 0% 3% 0% 3%;
+  padding: 0%;
+  border: 0% 5%; 
+  text-align: center; 
+  vertical-align:bottom;}
+
+.navbar	 li:hover {
+ color: #999999;}
+
+.navbar ul{
+  padding:0;
+  size:cover;}
+  
+ /* font-family: 'Raleway', sans-serif;
+ font-family: 'Roboto', sans-serif;*/
+  
+/*home page code*/
+
+.bck{
+	background: url(C:/Users/James/Desktop/cancerlegalexperts/background2.png);
+	background-size:100%;
+	height:100%;
+	color:Black;
+	margin-top:0;
+	padding-top:0;
+	font-family: 'Raleway', sans-serif;
+	}
+
+.header{margin-left:33%; width:35%; margin-top:0;padding-top:0;}
+#contentitle{font-size:2.5rem;}
+#header3{font-style:italic;}
+.c1{display:flex; padding-top:1%;}
+.banner{height:8%; background-color:#333333;}
+.experth{margin-left:10%; font-family: 'Raleway', sans-serif;}
+.exdes{color:#999999}
+#extit{text-align:center; font-family: 'Roboto', sans-serif;}
+.servicesh{margin-left:10%;margin-right:10%; font-family: 'Raleway', sans-serif;}
+.obtn{margin-left:33%;padding-right:50%;width:10%}
+.btn{padding-left:10%;background-color: #999999;color:White;  
+ padding-right:0; border-style:solid; border-color:#777777;}
+
+.obtn a{font-style:normal;
+color:White; text-decoration:none;}	
+.btn a:hover{color:Black;}
+
+.obtn2{width:25%; height:8%;}
+.btn2{padding-left:10%;background-color: #999999;color:White;  
+ padding-right:0; border-style:solid; border-color:#777777; }
+.obtn2 a{font-style:normal;
+color:White; text-decoration:none;}
+.btn2 a:hover{color:Black;}
+ /*expert page code*/ 
+  .logoheader{
+	width:100%;
+	justify-content:center;
+	text-align:center;
+}  
+.fdb{background-image:url(C:Users/James/Desktop/cancerlegalexperts/dnastrands.jpg); color:White; width:100%; text-align:center; height:8%; }
+.row{display:flex;}
+.logo{height:200px;width:auto;}
+ 
+.expertbanner{width:100%; background-image:url(C:Users/James/Desktop/cancerlegalexperts/dnastrands.jpg); color:rgb(40,157,211); text-align:center;  font-size:2.3rem;  height: 80px;}  
+.exban{padding:1%; font-family:'Roboto', sans-serif;}
+
+.pagetitle{font-size:1.6rem; text-align:center;}
+.directorspan{text-align:center;}
+.subtitle{font-size:2rem; text-align:center; font-family:'Roboto', sans-serif;}
+.des{padding-top:1%; font-family:'Raleway', sans-serif;}
+.expertspan{display:flex; justify-content:center; text-align:center;}
+.expertimg{height:240px; width:auto;}
+.expertblurb{margin-left:4%; margin-right:4%;}
+#advert{margin-left:10%;margin-right:10%; font-weight:400; font-size:1.4rem;}
+
+/*Footer Formatting*/
+.footerlist li{
+	text-decoration:none;
+	font-style:normal;
+	list-style:none;
+	padding:1%;
+	color:#999999;
+}
+.footerlist{
+	padding-left:0;
+	list-style:normal;
+	text-decoration:none;
+	font-family:'Raleway', sans-serif;
+}
+.footerlist a:active{
+	text-decoration:none;
+	color:#999999;
+}
+.footerlist a{
+	color:#999999;
+	text-decoration:none;
+}
+.links li {
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 100; 
+}
+.links{margin-left:5%;}
+.SM1 {vertical-align:top;}
+.SM1 li {
+font-size:11px;}
+.contactdetails {vertical-align: top;}
+.contactdetails li {
+text-transform:uppercase
+}
+.address {vertical-align:top;}
+text-transform: uppercase;
+}
+
+/*Services Page formatting*/
+.ser{display:flex;}
+.services{display:flex; margin-bottom:10%;margin-left:5%; margin-right:5%; font-family:'Raleway', sans-serif;}
+.services img{height:50%; width:auto;}
+.servim{text-align:right; padding-right:5%;}
+.servtitle{text-align:center;font-size:1.4rem;  font-family:'Rpboto', sans-serif;}
+
+/*Contact page formatting*/
+.con{text-align:center; font-size:1.2rem;}
+.con1{margin-top:1%; font-family:'Raleway', sans-serif;}
+.con3{color:#555555; font-family:'Roboto', sans-serif;}
